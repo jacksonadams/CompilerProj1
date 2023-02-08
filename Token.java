@@ -11,6 +11,7 @@ package com.mycompany.compilerproj1;
 public class Token {
     public enum TokenType {
         IDENT_TOKEN,
+        NUM_TOKEN,
         ELSE_TOKEN,
         IF_TOKEN,
         INT_TOKEN,
